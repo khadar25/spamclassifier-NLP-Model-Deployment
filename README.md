@@ -11,3 +11,5 @@ Steps:
 Dataset: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 Naive Bayes classifiers are a popular statistical technique of e-mail filtering. They typically use bag of words features to identify spam e-mail. Therefore, we’ll build a simple message classifier using Naive Bayes theorem.
 
+The Model is Deployed in Heroku
+Link https://sms-spam-classifier-nlp.herokuapp.com/
